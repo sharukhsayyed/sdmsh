@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\IET\Desktop\fod_1\Day14\SpringRESTWebService"/>
+			<item value="C:\Users\IET\Desktop\fod_1\Day14\MySpringbootProductCrudMVC"/>
+			<item value="C:\Users\IET\Desktop\fod_1\Day14\SpringMVCCCRUDDemo"/>
+			<item value="C:\Users\IET\Desktop\fod_1\Day1\JDBCConnectionDemo"/>
+			<item value="C:\Users\IET\Desktop\adv_ee\SpringHello"/>
+			<item value="C:\Users\IET\Desktop\adv_ee\ManyToMany"/>
+			<item value="C:\Users\IET\Desktop\adv_ee\OneToOne"/>
+			<item value="C:\Users\IET\Desktop\new1-main\OneToOneDemo"/>
+			<item value="C:\Users\IET\Desktop\adv_ee\OneToMany"/>
+			<item value="C:\Users\IET\Desktop\new1-main\OneToManyDemo"/>
+			<item value="C:\Users\IET\Desktop\new1-main\MVCCRUDDemo"/>
+			<item value="C:\Users\IET\Desktop\new1-main\.settings"/>
+			<item value="C:\Users\IET\Desktop\new1-main"/>
+			<item value="C:\Users\IET\Desktop\adv_java\JAVA_setting.xml-main (2)\JAVA_setting.xml-main"/>
+			<item value="C:\Users\IET\eclipse-workspace"/>
+			<item value="C:\Users\IET\Desktop\JSP"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>
